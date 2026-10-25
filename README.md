@@ -1,2 +1,3 @@
-# 6b397213-cleverbrain3-backend
-cleverbrain3 - backend
+# Portal Backend
+
+Backend service for the Portal Platform built with FastAPI, Celery, and SQLAlchemy.
